@@ -166,6 +166,6 @@ Pull requests welcome! If you have ideas for new features or find bugs, open an 
 
 <div align="center">
 
-**Made with ⌨️ by [Your Name]**
+**Made with ⌨️ by Kuthab Ibrahim**
 
 </div>
